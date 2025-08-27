@@ -1,0 +1,1 @@
+Model for Mosquito Reproduction adjusted with a gene drive sterilizer. File 1 is a Markov Model, but File 2, the main model, is a stochastic process that models the gene drive over any period with any population size
